@@ -18,9 +18,6 @@ This project outlines two interactive dashboards created using Tableau. These da
 
 - **Product Information**: Filters by product category and subcategory.
 - **Location Information**: Filters by region, state, and city.
-
-![SalesDashboard](https://github.com/user-attachments/assets/bea10be4-b535-4c15-862d-92c890f6a454)
-
 ---
 
 ## Sales Dashboard
@@ -28,6 +25,9 @@ This project outlines two interactive dashboards created using Tableau. These da
 ### Dashboard Purpose
 
 The sales dashboard provides a comprehensive overview of sales metrics and trends, enabling year-over-year analysis and insights into sales performance.
+
+### Dashboard Preview
+![SalesDashboard](https://github.com/user-attachments/assets/bea10be4-b535-4c15-862d-92c890f6a454)
 
 ### KPI Overview
 
