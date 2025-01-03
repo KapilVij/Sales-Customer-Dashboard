@@ -60,6 +60,9 @@ The sales dashboard provides a comprehensive overview of sales metrics and trend
 
 The customer dashboard offers an overview of customer data, trends, and behaviors, empowering marketing teams and management to better understand customer segments and enhance satisfaction.
 
+### Dashboard Preview
+![CustomerDashboard](https://github.com/user-attachments/assets/90eb7171-86d2-446f-bd24-05eb0068bea4)
+
 ### KPI Overview
 
 - Displays a summary of:
