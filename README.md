@@ -19,7 +19,7 @@ This project outlines two interactive dashboards created using Tableau. These da
 - **Product Information**: Filters by product category and subcategory.
 - **Location Information**: Filters by region, state, and city.
 
-![Uploading SalesDashboard.jpeg…]()
+![SalesDashboard](https://github.com/user-attachments/assets/bea10be4-b535-4c15-862d-92c890f6a454)
 
 ---
 
